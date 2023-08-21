@@ -40,6 +40,8 @@ const NewsDetailPage = ({ news }) => (
         }}
       ></div>
 
+           
+
       <p
         style={{
           display: "flex",
